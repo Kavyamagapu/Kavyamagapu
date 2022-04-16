@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kavyamagapu.
 - 👀 I’m interested in developing new things.
-- 🌱 I’m currently an Engineering student.
+- 🌱 I’m currently a Computer Science student.
 
 <!---
 Kavyamagapu/Kavyamagapu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
